@@ -18,7 +18,7 @@
 	<DebugType>full</DebugType>
 	<Optimize>false</Optimize>
 	<OutputPath>Temp\bin\Debug\</OutputPath>
-	<DefineConstants>DEBUG;TRACE;UNITY_3_5_5;UNITY_3_5;UNITY_EDITOR;ENABLE_PROFILER;UNITY_STANDALONE_WIN;ENABLE_GENERICS;ENABLE_DUCK_TYPING;ENABLE_TERRAIN;ENABLE_MOVIES;ENABLE_WEBCAM;ENABLE_MICROPHONE;ENABLE_NETWORK;ENABLE_CLOTH;ENABLE_WWW;ENABLE_SUBSTANCE</DefineConstants>
+	<DefineConstants>DEBUG;TRACE;UNITY_3_5_6;UNITY_3_5;UNITY_EDITOR;ENABLE_PROFILER;UNITY_STANDALONE_WIN;ENABLE_GENERICS;ENABLE_DUCK_TYPING;ENABLE_TERRAIN;ENABLE_MOVIES;ENABLE_WEBCAM;ENABLE_MICROPHONE;ENABLE_NETWORK;ENABLE_CLOTH;ENABLE_WWW;ENABLE_SUBSTANCE</DefineConstants>
 	<ErrorReport>prompt</ErrorReport>
 	<WarningLevel>4</WarningLevel>
 	<NoWarn>0169</NoWarn>
@@ -44,26 +44,8 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\AudioHandler.cs" />
+     <Compile Include="Assets\Player\Materials\Textures\side_walk\anims.cs" />
      <Compile Include="Assets\Scripts\BoxSpawner.cs" />
-     <Compile Include="Assets\Scripts\CCScripts\CameraBehaviour.cs" />
-     <Compile Include="Assets\Scripts\CCScripts\CameraFade.cs" />
-     <Compile Include="Assets\Scripts\CCScripts\Character.cs" />
-     <Compile Include="Assets\Scripts\CCScripts\Checkpoint.cs" />
-     <Compile Include="Assets\Scripts\CCScripts\CountDownExplosive.cs" />
-     <Compile Include="Assets\Scripts\CCScripts\EnemyBehaviour.cs" />
-     <Compile Include="Assets\Scripts\CCScripts\Enumerations.cs" />
-     <Compile Include="Assets\Scripts\CCScripts\Explosive.cs" />
-     <Compile Include="Assets\Scripts\CCScripts\GameManager.cs" />
-     <Compile Include="Assets\Scripts\CCScripts\HelloWorld.cs" />
-     <Compile Include="Assets\Scripts\CCScripts\Jumpable.cs" />
-     <Compile Include="Assets\Scripts\CCScripts\LaserBehaviour.cs" />
-     <Compile Include="Assets\Scripts\CCScripts\Missile.cs" />
-     <Compile Include="Assets\Scripts\CCScripts\RotationScript.cs" />
-     <Compile Include="Assets\Scripts\CCScripts\Shooting.cs" />
-     <Compile Include="Assets\Scripts\CCScripts\SwitchBehaviour.cs" />
-     <Compile Include="Assets\Scripts\CCScripts\ToggleBehaviour.cs" />
-     <Compile Include="Assets\Scripts\CCScripts\YouWinScene.cs" />
      <Compile Include="Assets\Scripts\DB\database.cs" />
      <Compile Include="Assets\Scripts\Player.cs" />
      <Compile Include="Assets\Scripts\Teleport.cs" />
