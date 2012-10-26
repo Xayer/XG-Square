@@ -1,0 +1,8 @@
+C:\Users\fred865c\Documents\GitHub\XG-Square\Square\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\fred865c\Documents\GitHub\XG-Square\Square\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\fred865c\Documents\GitHub\XG-Square\Square\Temp\bin\Debug\UnityEditor.dll
+C:\Users\fred865c\Documents\GitHub\XG-Square\Square\Temp\bin\Debug\UnityEngine.dll
+C:\Users\fred865c\Documents\GitHub\XG-Square\Square\Temp\bin\Debug\nunit.framework.dll
+C:\Users\fred865c\Documents\GitHub\XG-Square\Square\obj\Debug\Assembly-CSharp-firstpass-vs.csprojResolveAssemblyReference.cache
+C:\Users\fred865c\Documents\GitHub\XG-Square\Square\obj\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\fred865c\Documents\GitHub\XG-Square\Square\obj\Debug\Assembly-CSharp-firstpass.pdb
