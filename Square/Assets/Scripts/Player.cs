@@ -19,16 +19,16 @@ public class Player : MonoBehaviour
 
         if (Input.GetKey(KeyCode.A))
            {
-               Directions.x -= Speed;
+               Directions.z -= Speed;
             }
 
         else if (Input.GetKey(KeyCode.D))
             {
-                Directions.x -= -Speed;
+                Directions.z -= -Speed;
             }
         else if (Input.GetKey(KeyCode.W))
         {
-            Directions.y -= -Speed;
+            rigidbody.AddForce();
         }
         else
         {
